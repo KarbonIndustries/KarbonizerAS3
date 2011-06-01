@@ -3,7 +3,7 @@ Created by Shammel Lee on 2010-08-15.
 Copyright (c) 2010 Karbon, Inc. All rights reserved.
 */
 
-package
+package com.karbon
 {
 	import flash.display.*;
 	import flash.events.*;
